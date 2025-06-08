@@ -1,0 +1,26 @@
+img{
+    width: 4%;
+}
+
+.mycarousel img{
+    height: 500px;
+}
+
+.modal{
+    width: 70vw;
+}
+
+.modal-body{
+    gap: 10px;
+}
+.modal-body .image{
+    width: 50%;
+}
+
+.modal-body .image img{
+    width: 100%;
+}
+
+.modal-body .text{
+    width: 50%;
+}
